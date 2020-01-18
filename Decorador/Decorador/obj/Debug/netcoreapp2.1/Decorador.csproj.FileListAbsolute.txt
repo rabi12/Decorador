@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\bin\Debug\netcoreapp2.1\Decorador.deps.json
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\bin\Debug\netcoreapp2.1\Decorador.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\bin\Debug\netcoreapp2.1\Decorador.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\bin\Debug\netcoreapp2.1\Decorador.dll
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\bin\Debug\netcoreapp2.1\Decorador.pdb
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\obj\Debug\netcoreapp2.1\Decorador.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\obj\Debug\netcoreapp2.1\Decorador.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\obj\Debug\netcoreapp2.1\Decorador.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\obj\Debug\netcoreapp2.1\Decorador.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\obj\Debug\netcoreapp2.1\Decorador.dll
+C:\Users\rabi.aranda\source\repos\Decorador\Decorador\obj\Debug\netcoreapp2.1\Decorador.pdb
